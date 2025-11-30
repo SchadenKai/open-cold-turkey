@@ -6,3 +6,6 @@ docker-down-dev:
 
 start-app:
 	cd deployment/unix && chmod +x start.sh setup.sh && ./setup.sh && ./start.sh
+
+start-app-windows:
+	cd deployment/windows && setup.bat && start.bat
