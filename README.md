@@ -1,2 +1,1 @@
-# dyanmic-ui
-Dynamic UI Proof of Concept using Generative AI
+# Open Cold Turkey App
